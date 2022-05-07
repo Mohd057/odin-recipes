@@ -1,1 +1,1 @@
-# odin-recipes
+This is the readme.md file for the odin project. I don't think im doing this right, but I shall do my best # odin-recipes
